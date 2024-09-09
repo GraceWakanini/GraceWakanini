@@ -1,4 +1,4 @@
-![GraceWakanini Hub stats](https://github-readme-stats.vercel.app/api?username=GraceWakanini&show_icons=true&theme=radical)![GraceWakanini GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceWakanini&show_icons=true&theme=radical)
+![GraceWakanini Hub stats](https://github-readme-stats.vercel.app/api?username=GraceWakanini&show_icons=true&theme=radical)
 
 <!--
 **GraceWakanini/GraceWakanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
